@@ -10,7 +10,7 @@ repositories {
 }
 
 dependencies {
-    // IDK just Testing stuff :D
+    // IDK just Testing stuff
     
     implementation 'org.reflections:reflections:0.10.2'
     implementation("com.fasterxml.jackson.core:jackson-databind:2.17.2")
